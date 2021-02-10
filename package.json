@@ -1,0 +1,16 @@
+{
+  "name": "ShoesScraper",
+  "version": "1.0.0",
+  "description": "",
+  "main": "shoesScraper.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "open": "^7.4.0",
+    "puppeteer": "^7.0.1"
+  }
+}
