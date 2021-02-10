@@ -1,6 +1,6 @@
 # "Shoes scraper" con Puppeteer
 
-Después del correspondiente Git Clone para bajar los archivos de proyecto, iniciar con <code>npm install<code>
+Después del correspondiente Git Clone para bajar los archivos de proyecto, iniciar con <code>npm install</code>
 
 Ejecutar el fichero **start.bat**
 
